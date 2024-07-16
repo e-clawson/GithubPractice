@@ -1,0 +1,9 @@
+This project was fun! 
+
+It helped me to remember some commands I will use a lot like cp, rm, touch, mkdir, how to add and remove files. Still struggling to get a .txt file to open from the terminal. 
+
+Struggled a little with the creation of the copy directory and how to copy all of docs to it but figured it out thanks to the IBM commands archive (https://www.ibm.com/docs/en/aix/7.2?topic=directories-copying-cp-command) 
+
+I have had experiences accidentally committing changes to the wrong remote repo on GitHub from my terminal so I have gotten very careful about checking my remote origin before I make my first commits. I am also trying to be mindful of making sure I don't make typos, especially in my commit descriptions because I am bad at double checking them. I still need to work on being comfortable using some additional commands in the terminal, in particular the arrows. I get nervous using them but I am getting better at it. 
+
+I also added a step so I could save the directions for this practice in the README.md. I thought that was a good way to keep track of why I did this project, how I did it, etc. 
